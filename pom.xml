@@ -27,3 +27,20 @@
 #5/11/2022 11:14 AM IST
 #Default Location of CodeCoverage File is target/site/jacoco/jacoco.xml,target/site/jacoco-it/jacoco.xml,build/reports/jacoco/test/jacocoTestReport.xml
 -->
+
+    
+
+<!--#Change 2 - Changes for Unit Test Coverage Percentage Update on SonarCloud Dashboard
+#By ASecurityGuru
+#5/11/2022 11:14 AM IST
+#Default Location of CodeCoverage File is target/site/jacoco/jacoco.xml,target/site/jacoco-it/jacoco.xml,build/reports/jacoco/test/jacocoTestReport.xml
+-->
+            
+
+<!--# Changes for Software Composition Analysis Scan using Snyk
+    #By ASecurityGuru
+    #5/12/2022 11:14 AM IST
+-->
+        
+       
+</project>
