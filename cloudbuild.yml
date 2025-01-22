@@ -7,3 +7,5 @@ steps:
     id: SAST Scan using SonarCloud in GCP DevSecOps Pipeline
 
 #Run Software Composition Analysis (SCA security scan) using Snyk in GCP DevSecOps Pipeline
+options:
+  logging: CLOUD_LOGGING_ONLY
