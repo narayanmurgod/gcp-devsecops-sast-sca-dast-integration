@@ -40,5 +40,7 @@ artifacts:
     location: 'gs://gcp-devsecops'
     paths:
       - zap_report.html
+
+      
 options:
   logging: CLOUD_LOGGING_ONLY
